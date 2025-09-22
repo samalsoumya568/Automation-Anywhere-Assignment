@@ -1,0 +1,19 @@
+{
+  "name": "my-assignment",
+  "version": "1.0.0",
+  "description": "y",
+  "main": "index.js",
+  "scripts": {
+    "test": "git init"
+  },
+  "author": "Soumya Ranjan Samal",
+  "license": "ISC",
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.3.0",
+    "cypress": "^15.2.0",
+    "cypress-drag-drop": "^1.1.1",
+    "cypress-iframe": "^1.0.1",
+    "cypress-xpath": "^2.0.1",
+    "xpath": "^0.0.34"
+  }
+}
